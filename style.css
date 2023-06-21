@@ -1,0 +1,28 @@
+h1{
+    color: red;
+}
+body{
+    background-image: url();
+    background-repeat: no-repeat;
+    background-size: 100% 800px;
+    
+    
+}
+.demo{
+    height: 50px;
+    width: 300px;
+    border-radius: 50px;
+}
+a{
+    text-decoration: none;
+}
+
+.pen{
+    height: 50px;
+    width: 100px;
+    border-radius: 50px;
+    background-color: greenyellow;
+}
+.book{
+    border-radius: 20px;
+}
